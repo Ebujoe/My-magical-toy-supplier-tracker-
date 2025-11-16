@@ -1,8 +1,8 @@
-# 🏭 Supplier Toy Store API 🧸
+# Supplier Toy Store API 
 
 A magical API that helps manage toy suppliers! Built with Python Flask.
 
-## 🎯 What This Does
+##  What This Does
 - 📋 Keeps track of toy suppliers
 - ➕ Add new suppliers
 - 👀 View all suppliers
